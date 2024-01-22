@@ -1,3 +1,5 @@
+Este Proyecto fue creado en el curso de Juan de la Torre React la guia completa.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
